@@ -1,0 +1,4 @@
+# SCPCE1 requirements
+# Standard library only, except for the host PCE package.
+
+pce
